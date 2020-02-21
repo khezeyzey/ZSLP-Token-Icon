@@ -1,4 +1,4 @@
-# ZSLP Token Icons
+# Khezeyzey800cc ZSLP Token Icon
 
 A hosted repository of all known ZSLP token icons. All tokens added here will be served via an extremely censorship resistant endpoint located at tokens.zslp.org/`[size]`/`[txid]`.png
 
@@ -14,16 +14,12 @@ The format is tokens.zslp.org/`{size}`/`{txid}`.`{format}`
 
 ## Examples
 
-`https://tokens.zslp.org/128/aad4f100e82f2b5c842827f20b20d2ec9d62d155ca7ee75c3e4fed9f62ef0ad7.png`
+`https://tokens.zslp.org/128/5ac5d80be15ff0aaaf04735b43df1f8c2629d1b5d563a78e5b739d73bd1e51ca.png`
 
-`https://tokens.zslp.org/64/aad4f100e82f2b5c842827f20b20d2ec9d62d155ca7ee75c3e4fed9f62ef0ad7.png`
+`https://tokens.zslp.org/64/5ac5d80be15ff0aaaf04735b43df1f8c2629d1b5d563a78e5b739d73bd1e51ca.png`
 
-`https://tokens.zslp.org/32/aad4f100e82f2b5c842827f20b20d2ec9d62d155ca7ee75c3e4fed9f62ef0ad7.png`
-
-`https://tokens.zslp.org/original/aad4f100e82f2b5c842827f20b20d2ec9d62d155ca7ee75c3e4fed9f62ef0ad7.png`
+`https://tokens.zslp.org/32/5ac5d80be15ff0aaaf04735b43df1f8c2629d1b5d563a78e5b739d73bd1e51ca.png`
 
 ## Adding your icon
 
-Create a version of your icon in 32x32, 64x64, 128x128 and "original" (more than or equal to 128px) and add them to their respective folders in a pull request. If you have a SVG file, feel free to add that to.
-
-Alternatively open an issue or contact me on [telegram](https://t.me/cryptoprofutonium) with links to an icon in at least 128x128 and I'll resize them for you.
+Created a version of your icon in 32x32, 64x64, 128x128 a add them to their respective folders in a pull request.
